@@ -16,3 +16,4 @@ You are expected to;
 • The frame should be set to the size 800 by 800.<br>
 • You can use a grid layout which is pretty straightforward.<br>
 • Submit only one file called Transformations.java.<br>
+![alt text](https://github.com/mervesrn/Transformations_JavaGUIapp/blob/main/Ekran%20Resmi%202021-07-08%2012.38.22.png)
